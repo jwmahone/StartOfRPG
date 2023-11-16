@@ -1,1 +1,2 @@
 # StartOfRPG
+StartOfRPG is meant to be the bones of an RPG game. The idea was to create the damage systems and the properties of weapons and characters. It is a work in progress and there isn't much functionality yet. The beauty of this project is that I can go almost anywhere with it. So far you can create a character with weapons and armor. Using this code as a base I could potentially create a two-player fighting game in which each user creates and controls their character. 
